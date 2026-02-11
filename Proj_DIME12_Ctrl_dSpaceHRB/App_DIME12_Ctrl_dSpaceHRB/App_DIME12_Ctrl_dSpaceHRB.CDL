@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ConfigurationDesk 6.4</creator>
+	<application>
+		<Name type="key">App_DIME12_Ctrl_dSpaceHRB.CDL</Name>
+		<DisplayName type="key">App_DIME12_Ctrl_dSpaceHRB</DisplayName>
+		<Path type="key">.\App_DIME12_Ctrl_dSpaceHRB</Path>
+		<Component type="key">ProjectApplication</Component>
+		<Type type="key">14</Type>
+		<ApplicationType type="key">3</ApplicationType>
+		<Flags type="key">41216</Flags>
+		<ItemInfoDate type="key">7/18/2025 11:52:00 AM</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDocs type="key"/>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+		<Log type="key"/>
+		<AddInfoDb type="key"/>
+		<DatabaseID type="key">-1</DatabaseID>
+		<EntityID type="key">{C50B525E-B972-4263-B6A6-9B8A1DB7FE38}</EntityID>
+		<item>
+			<Name type="key">WindowConfiguration.xml</Name>
+			<DisplayName type="key">WindowConfiguration.xml</DisplayName>
+			<Path type="key">.</Path>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">260</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">4</Type>
+			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{326954E4-C66C-4389-9CB5-A81739113A49}</EntityID>
+			<Targets/>
+		</item>
+		<item>
+			<DisplayName type="key">Device Topology</DisplayName>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">131328</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">33</Type>
+			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{582464DC-312A-40F9-B5C0-2CD87913F49E}</EntityID>
+			<Targets/>
+		</item>
+		<item>
+			<DisplayName type="key">Hardware Topology</DisplayName>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">256</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">19</Type>
+			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{DAF9FE5A-B76D-4C4A-A85D-C6F090EA6640}</EntityID>
+			<Targets/>
+		</item>
+		<item>
+			<DisplayName type="key">Model Topology</DisplayName>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">256</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">31</Type>
+			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key">Model location:
+C:\Jingyuan\GitTestDaten\SimulinkModel\DIME12_Ctrl_dSpaceHRBMAB.slx
+</Log>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{CFA83F19-B9D2-4533-B77C-72CE23374DC0}</EntityID>
+			<Targets/>
+		</item>
+		<item>
+			<DisplayName type="key">Communication Matrices</DisplayName>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">131328</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">70</Type>
+			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{2EEE87A7-E5AC-4E88-8667-505ABE16B039}</EntityID>
+			<Targets/>
+		</item>
+		<item>
+			<DisplayName type="key">External Cable Harness</DisplayName>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">131328</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">32</Type>
+			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{1E3C0B80-146A-40BA-A738-FBEF25203137}</EntityID>
+			<Targets/>
+		</item>
+		<item>
+			<Name type="key">Application.cfgx</Name>
+			<DisplayName type="key">Core Application</DisplayName>
+			<Path type="key">.</Path>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">260</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">20</Type>
+			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{96EDE035-986C-44F3-A75D-1602C83F9D6F}</EntityID>
+			<Targets/>
+		</item>
+		<item>
+			<Name type="key">Build Results</Name>
+			<DisplayName type="key">Build Results</DisplayName>
+			<Path type="key">.</Path>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">256</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">58</Type>
+			<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{FD4D5A20-5410-415F-9D6F-4E701327CA7E}</EntityID>
+			<Targets/>
+			<item>
+				<Name type="key">Build Results</Name>
+				<DisplayName type="key">itSDFROOT</DisplayName>
+				<Path type="key">.</Path>
+				<Component type="key">ProjectApplication</Component>
+				<Flags type="key">260</Flags>
+				<ExtendedFlags type="key">0</ExtendedFlags>
+				<Type type="key">29</Type>
+				<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+				<ItemInfoPath type="key"/>
+				<ItemInfoDocs type="key"/>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+				<ItemInfoAddInfoDb type="key"/>
+				<Log type="key"/>
+				<DatabaseID type="key">-1</DatabaseID>
+				<EntityID type="key">{AB4CA5BD-D79D-44A1-B0B3-E467DF8E081E}</EntityID>
+				<Targets/>
+				<item>
+					<Name type="key">App_DIME12_Ctrl_dSpaceHRB.dsbuildinfo</Name>
+					<DisplayName type="key">App_DIME12_Ctrl_dSpaceHRB.dsbuildinfo</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">260</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">4</Type>
+					<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{C7B896D2-E618-4626-9232-516146B3EAFC}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">App_DIME12_Ctrl_dSpaceHRB.rta</Name>
+					<DisplayName type="key">App_DIME12_Ctrl_dSpaceHRB.rta</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">37</Type>
+					<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{F72FC8FE-B646-4C70-917C-31DE5E3A7741}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">App_DIME12_Ctrl_dSpaceHRB.sdf</Name>
+					<DisplayName type="key">App_DIME12_Ctrl_dSpaceHRB.sdf</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">35</Type>
+					<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{F24C0BD7-48AC-4FCD-9A8E-DAD511485755}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">DIME12_Ctrl_dSpaceHRB.expswcfg</Name>
+					<DisplayName type="key">DIME12_Ctrl_dSpaceHRB.expswcfg</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">71</Type>
+					<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{88499DF0-F869-4A8A-B355-BAD65A06CEC9}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">DIME12_Ctrl_dSpaceHRB.map</Name>
+					<DisplayName type="key">DIME12_Ctrl_dSpaceHRB.map</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">36</Type>
+					<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{FF1316BD-0CF5-4FD6-BA7F-0ED415911FDB}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">DIME12_Ctrl_dSpaceHRB.trc</Name>
+					<DisplayName type="key">DIME12_Ctrl_dSpaceHRB.trc</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">34</Type>
+					<ItemInfoDate type="key">10.02.2026 14:54:56</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{30604A53-741E-4BD5-82D2-1BBFC551F014}</EntityID>
+					<Targets/>
+				</item>
+			</item>
+		</item>
+	</application>
+</Root>
