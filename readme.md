@@ -1,1 +1,1 @@
-erster Versuch
+Temporäres Repo für Klassenarbeit-Korrekturen
