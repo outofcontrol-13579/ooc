@@ -5,11 +5,11 @@
 		<Creator type="key">ConfigurationDesk</Creator>
 		<MigrationHistory type="key"/>
 		<Name type="key">Proj_Config.CDP</Name>
-		<DisplayName type="key">Proj_DIME12_Ctrl_dSpaceHRB</DisplayName>
+		<DisplayName type="key">Proj_Config</DisplayName>
 		<Flags type="key">4096</Flags>
 		<Type type="key">1</Type>
 		<UniqueID type="key">553065980</UniqueID>
-		<EntityID type="key">{6B500D53-4F2E-4AA4-8607-369F2F97F8BD}</EntityID>
+		<EntityID type="key">{404DAAEF-355E-457A-93D9-D7DC4A3472D7}</EntityID>
 		<ItemInfoDate type="key">7/18/2025 11:51:59 AM</ItemInfoDate>
 		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 		<ItemInfoDescr type="key"/>
@@ -18,12 +18,12 @@
 		<item>
 			<Targets type="key">project</Targets>
 			<Name type="key">Config</Name>
-			<DisplayName type="key">Proj_DIME12_Ctrl_dSpaceHRB</DisplayName>
+			<DisplayName type="key">Proj_Config</DisplayName>
 			<Path type="key">..</Path>
 			<Flags type="key">4100</Flags>
 			<Type type="key">3</Type>
 			<UniqueID type="key">1045553652</UniqueID>
-			<EntityID type="key">{D5BFF403-234A-4C88-AC4B-0BB9804AEF8B}</EntityID>
+			<EntityID type="key">{864D2853-E3AB-4176-8ED8-18AD037589BC}</EntityID>
 			<ItemInfoDate type="key">7/18/2025 11:51:59 AM</ItemInfoDate>
 			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 			<ItemInfoDescr type="key"/>
@@ -36,7 +36,7 @@
 				<Path type="key">.</Path>
 				<Type type="key">3</Type>
 				<UniqueID type="key">216509034</UniqueID>
-				<EntityID type="key">{CE178B89-72FB-4C91-B010-69014B5A9093}</EntityID>
+				<EntityID type="key">{F9291F5D-2254-4666-BF3B-5212649FDD55}</EntityID>
 				<ItemInfoDate type="key">7/18/2025 11:51:59 AM</ItemInfoDate>
 				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 				<ItemInfoDocs type="key">.doc,.docx,.txt,.pdf,.xls,.xlsx,.csv,.rtf</ItemInfoDocs>
@@ -51,7 +51,7 @@
 				<Path type="key">.</Path>
 				<Type type="key">3</Type>
 				<UniqueID type="key">805703722</UniqueID>
-				<EntityID type="key">{8E76C7FB-81E3-4DEE-AB8C-50FACF6BA408}</EntityID>
+				<EntityID type="key">{042EF89E-18D0-4B95-8B06-81C94EECBDC2}</EntityID>
 				<ItemInfoDate type="key">7/18/2025 11:51:59 AM</ItemInfoDate>
 				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 				<ItemInfoDocs type="key">.mpp,.mppx</ItemInfoDocs>
@@ -66,7 +66,7 @@
 				<Path type="key">.</Path>
 				<Type type="key">3</Type>
 				<UniqueID type="key">212676704</UniqueID>
-				<EntityID type="key">{6A3D5F53-9F9E-4033-B766-916FC4E7AD60}</EntityID>
+				<EntityID type="key">{C04455D7-3D60-423D-AF2D-340C315F0D19}</EntityID>
 				<ItemInfoDate type="key">7/18/2025 11:51:59 AM</ItemInfoDate>
 				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 				<ItemInfoDocs type="key">.slx,.mdl,.sic,.fmu,.ctlgz,.bsc,.mcd,.mtfx</ItemInfoDocs>
@@ -81,7 +81,7 @@
 				<Path type="key">.</Path>
 				<Type type="key">3</Type>
 				<UniqueID type="key">918566752</UniqueID>
-				<EntityID type="key">{679D6055-58A1-4475-99C2-F12F2430F8A4}</EntityID>
+				<EntityID type="key">{5B876866-967D-465A-A75B-AC0A8695383E}</EntityID>
 				<ItemInfoDate type="key">7/18/2025 11:51:59 AM</ItemInfoDate>
 				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 				<ItemInfoDocs type="key">.arxml,.ldf,.dbc,.xml</ItemInfoDocs>
@@ -96,7 +96,7 @@
 				<Path type="key">.</Path>
 				<Type type="key">3</Type>
 				<UniqueID type="key">850765414</UniqueID>
-				<EntityID type="key">{FBB925D4-7EAC-459D-B472-BBF870F051D0}</EntityID>
+				<EntityID type="key">{3096450E-4E11-4F24-BA9D-03C3EA11748E}</EntityID>
 				<ItemInfoDate type="key">7/18/2025 11:51:59 AM</ItemInfoDate>
 				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 				<ItemInfoDocs type="key">.xml,.cpp,.c,.h,.o,.so,.py,.pyc</ItemInfoDocs>
@@ -104,6 +104,25 @@
 				<ItemInfoAddInfoDb type="key"/>
 				<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
 			</item>
+		</item>
+		<item>
+			<MigrationHistory type="key"/>
+			<Component type="key">ProjectApplication</Component>
+			<Name type="key">App_Config.CDL</Name>
+			<DisplayName type="key">App_Config</DisplayName>
+			<Path type="key">.\App_Config</Path>
+			<Flags type="key">8448</Flags>
+			<ExtendedFlags type="key">16</ExtendedFlags>
+			<Type type="key">14</Type>
+			<UniqueID type="key">229588339</UniqueID>
+			<EntityID type="key">{B6DFF1C1-CFFA-4AA6-8F6F-7C9B550AF149}</EntityID>
+			<ItemInfoDate type="key">04.03.2026 14:23:11</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoLog type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
 		</item>
 	</project>
 	<experiments/>
@@ -113,8 +132,27 @@
 	</Interpreter>
 	<ProjectExperiment/>
 	<ProjectApplication>
-		<applications/>
-		<LastActiveApplication type="key">App_DIME12_Ctrl_dSpaceHRB</LastActiveApplication>
+		<applications>
+			<application>
+				<Name type="key">App_Config.CDL</Name>
+				<DisplayName type="key">App_Config</DisplayName>
+				<Path type="key">.\App_Config</Path>
+				<Component type="key">ProjectApplication</Component>
+				<Type type="key">14</Type>
+				<ApplicationType type="key">3</ApplicationType>
+				<Flags type="key">8448</Flags>
+				<ItemInfoDate type="key">04.03.2026 14:23:11</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key"/>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+				<Log type="key"/>
+				<AddInfoDb type="key"/>
+				<DatabaseID type="key">-1</DatabaseID>
+				<EntityID type="key">{B6DFF1C1-CFFA-4AA6-8F6F-7C9B550AF149}</EntityID>
+			</application>
+		</applications>
+		<LastActiveApplication type="key">App_Config</LastActiveApplication>
 	</ProjectApplication>
 	<PlatformManagement/>
 </Root>
