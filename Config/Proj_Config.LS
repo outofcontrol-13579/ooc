@@ -34,10 +34,6 @@
 				</item>
 			</item>
 			<item>
-				<Name type="key">App_DIME12_Ctrl_dSpaceHRB.CDL</Name>
-				<ViewFlags type="key">1</ViewFlags>
-			</item>
-			<item>
 				<Name type="key">App_Config.CDL</Name>
 				<ViewFlags type="key">45</ViewFlags>
 			</item>

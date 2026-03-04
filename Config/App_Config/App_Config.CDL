@@ -8,7 +8,7 @@
 		<Component type="key">ProjectApplication</Component>
 		<Type type="key">14</Type>
 		<ApplicationType type="key">3</ApplicationType>
-		<Flags type="key">8448</Flags>
+		<Flags type="key">41216</Flags>
 		<ItemInfoDate type="key">04.03.2026 14:23:11</ItemInfoDate>
 		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 		<ItemInfoDocs type="key"/>
@@ -23,7 +23,7 @@
 			<DisplayName type="key">WindowConfiguration.xml</DisplayName>
 			<Path type="key">.</Path>
 			<Component type="key">ProjectApplication</Component>
-			<Flags type="key">1796</Flags>
+			<Flags type="key">260</Flags>
 			<ExtendedFlags type="key">0</ExtendedFlags>
 			<Type type="key">4</Type>
 			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
@@ -40,7 +40,7 @@
 		<item>
 			<DisplayName type="key">Device Topology</DisplayName>
 			<Component type="key">ProjectApplication</Component>
-			<Flags type="key">132864</Flags>
+			<Flags type="key">131328</Flags>
 			<ExtendedFlags type="key">0</ExtendedFlags>
 			<Type type="key">33</Type>
 			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
@@ -57,7 +57,7 @@
 		<item>
 			<DisplayName type="key">Hardware Topology</DisplayName>
 			<Component type="key">ProjectApplication</Component>
-			<Flags type="key">1792</Flags>
+			<Flags type="key">256</Flags>
 			<ExtendedFlags type="key">0</ExtendedFlags>
 			<Type type="key">19</Type>
 			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
@@ -74,7 +74,7 @@
 		<item>
 			<DisplayName type="key">Model Topology</DisplayName>
 			<Component type="key">ProjectApplication</Component>
-			<Flags type="key">1792</Flags>
+			<Flags type="key">256</Flags>
 			<ExtendedFlags type="key">0</ExtendedFlags>
 			<Type type="key">31</Type>
 			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
@@ -84,7 +84,7 @@
 			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
 			<ItemInfoAddInfoDb type="key"/>
 			<Log type="key">Model location:
-C:\Jingyuan\GitTestDaten\SimulinkModel\DIME12_Ctrl_dSpaceHRBMAB.slx
+C:\Jingyuan\ooc\Model\Model.slx
 </Log>
 			<DatabaseID type="key">-1</DatabaseID>
 			<EntityID type="key">{E2393957-21EF-4B3E-873A-1FD382791ACA}</EntityID>
@@ -93,7 +93,7 @@ C:\Jingyuan\GitTestDaten\SimulinkModel\DIME12_Ctrl_dSpaceHRBMAB.slx
 		<item>
 			<DisplayName type="key">Communication Matrices</DisplayName>
 			<Component type="key">ProjectApplication</Component>
-			<Flags type="key">132864</Flags>
+			<Flags type="key">131328</Flags>
 			<ExtendedFlags type="key">0</ExtendedFlags>
 			<Type type="key">70</Type>
 			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
@@ -110,7 +110,7 @@ C:\Jingyuan\GitTestDaten\SimulinkModel\DIME12_Ctrl_dSpaceHRBMAB.slx
 		<item>
 			<DisplayName type="key">External Cable Harness</DisplayName>
 			<Component type="key">ProjectApplication</Component>
-			<Flags type="key">132864</Flags>
+			<Flags type="key">131328</Flags>
 			<ExtendedFlags type="key">0</ExtendedFlags>
 			<Type type="key">32</Type>
 			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
@@ -129,7 +129,7 @@ C:\Jingyuan\GitTestDaten\SimulinkModel\DIME12_Ctrl_dSpaceHRBMAB.slx
 			<DisplayName type="key">Core Application</DisplayName>
 			<Path type="key">.</Path>
 			<Component type="key">ProjectApplication</Component>
-			<Flags type="key">1796</Flags>
+			<Flags type="key">260</Flags>
 			<ExtendedFlags type="key">0</ExtendedFlags>
 			<Type type="key">20</Type>
 			<ItemInfoDate type="key">7/18/2025 11:52:14 AM</ItemInfoDate>
@@ -142,6 +142,158 @@ C:\Jingyuan\GitTestDaten\SimulinkModel\DIME12_Ctrl_dSpaceHRBMAB.slx
 			<DatabaseID type="key">-1</DatabaseID>
 			<EntityID type="key">{638EC509-8866-41E1-BA71-41191618A652}</EntityID>
 			<Targets/>
+		</item>
+		<item>
+			<Name type="key">Build Results</Name>
+			<DisplayName type="key">Build Results</DisplayName>
+			<Path type="key">.</Path>
+			<Component type="key">ProjectApplication</Component>
+			<Flags type="key">256</Flags>
+			<ExtendedFlags type="key">0</ExtendedFlags>
+			<Type type="key">58</Type>
+			<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+			<ItemInfoPath type="key"/>
+			<ItemInfoDocs type="key"/>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+			<ItemInfoAddInfoDb type="key"/>
+			<Log type="key"/>
+			<DatabaseID type="key">-1</DatabaseID>
+			<EntityID type="key">{84E69A54-538E-4A15-BB31-1FBF89041E22}</EntityID>
+			<Targets/>
+			<item>
+				<Name type="key">Build Results</Name>
+				<DisplayName type="key">itSDFROOT</DisplayName>
+				<Path type="key">.</Path>
+				<Component type="key">ProjectApplication</Component>
+				<Flags type="key">260</Flags>
+				<ExtendedFlags type="key">0</ExtendedFlags>
+				<Type type="key">29</Type>
+				<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+				<ItemInfoPath type="key"/>
+				<ItemInfoDocs type="key"/>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+				<ItemInfoAddInfoDb type="key"/>
+				<Log type="key"/>
+				<DatabaseID type="key">-1</DatabaseID>
+				<EntityID type="key">{28BA18FE-3DE9-4FBE-9E32-53BBD189A3DE}</EntityID>
+				<Targets/>
+				<item>
+					<Name type="key">App_Config.dsbuildinfo</Name>
+					<DisplayName type="key">App_Config.dsbuildinfo</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">260</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">4</Type>
+					<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{8217C7D5-3356-4433-8B53-7469253B5FF1}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">App_Config.rta</Name>
+					<DisplayName type="key">App_Config.rta</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">37</Type>
+					<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{29A4F24C-851B-4DF4-8CD9-1191A7580DD2}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">App_Config.sdf</Name>
+					<DisplayName type="key">App_Config.sdf</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">35</Type>
+					<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{F4D57F42-43D1-489E-BE3B-E9F4B6476359}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">Model.expswcfg</Name>
+					<DisplayName type="key">Model.expswcfg</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">71</Type>
+					<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{87121407-1280-4BDC-A8F9-9328FE328BE3}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">Model.map</Name>
+					<DisplayName type="key">Model.map</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">36</Type>
+					<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{405584B8-78DB-444A-8286-F300F09F222C}</EntityID>
+					<Targets/>
+				</item>
+				<item>
+					<Name type="key">Model.trc</Name>
+					<DisplayName type="key">Model.trc</DisplayName>
+					<Path type="key">.\Build Results</Path>
+					<Component type="key">ProjectApplication</Component>
+					<Flags type="key">256</Flags>
+					<ExtendedFlags type="key">0</ExtendedFlags>
+					<Type type="key">34</Type>
+					<ItemInfoDate type="key">04.03.2026 15:02:36</ItemInfoDate>
+					<ItemInfoPath type="key"/>
+					<ItemInfoDocs type="key"/>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
+					<ItemInfoAddInfoDb type="key"/>
+					<Log type="key"/>
+					<DatabaseID type="key">-1</DatabaseID>
+					<EntityID type="key">{095C7290-2174-455E-931D-2C4BBBA45102}</EntityID>
+					<Targets/>
+				</item>
+			</item>
 		</item>
 	</application>
 </Root>

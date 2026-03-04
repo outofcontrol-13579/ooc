@@ -111,16 +111,15 @@
 			<Name type="key">App_Config.CDL</Name>
 			<DisplayName type="key">App_Config</DisplayName>
 			<Path type="key">.\App_Config</Path>
-			<Flags type="key">8448</Flags>
-			<ExtendedFlags type="key">16</ExtendedFlags>
+			<Flags type="key">41216</Flags>
 			<Type type="key">14</Type>
 			<UniqueID type="key">229588339</UniqueID>
 			<EntityID type="key">{B6DFF1C1-CFFA-4AA6-8F6F-7C9B550AF149}</EntityID>
 			<ItemInfoDate type="key">04.03.2026 14:23:11</ItemInfoDate>
 			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 			<ItemInfoDocs type="key"/>
-			<ItemInfoLog type="key"/>
 			<ItemInfoDescr type="key"/>
+			<ItemInfoLog type="key"/>
 			<ItemInfoAddInfoDb type="key"/>
 			<ItemInfoAuthor type="key">Z644053</ItemInfoAuthor>
 		</item>
@@ -140,7 +139,7 @@
 				<Component type="key">ProjectApplication</Component>
 				<Type type="key">14</Type>
 				<ApplicationType type="key">3</ApplicationType>
-				<Flags type="key">8448</Flags>
+				<Flags type="key">41216</Flags>
 				<ItemInfoDate type="key">04.03.2026 14:23:11</ItemInfoDate>
 				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 				<ItemInfoDocs type="key"/>
