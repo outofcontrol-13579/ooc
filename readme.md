@@ -1,1 +1,1 @@
-Temporäres Repo für Klassenarbeit-Korrekturen
+Temporäres Repo
